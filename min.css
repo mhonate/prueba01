@@ -1,3 +1,10 @@
+body{
+	padding-top: 40px
+}
+.ver{
+	float: left;
+	position: relative;
+}
 .cabecera{
 	background-color: blue;
 }
@@ -27,4 +34,8 @@
 #n5{
 	text-align: center;
 
+}
+
+.clearfix{
+	clear: both;
 }
