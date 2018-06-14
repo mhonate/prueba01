@@ -1,3 +1,30 @@
 .cabecera{
 	background-color: blue;
 }
+
+
+#n1{
+	
+	margin-top: 40px;
+}
+#n2{
+	margin-top: 40px;
+}
+#n3{
+	margin-top: 100px;
+}
+#f1{
+	background-color: orange;
+	height: 100px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+
+.container{
+	margin-top: 40px;
+
+}
+#n5{
+	text-align: center;
+
+}
